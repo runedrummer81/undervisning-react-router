@@ -4,7 +4,7 @@ export default function HomePage() {
       <h1>Velkommen til forsiden!</h1>
       <p>
         Dette er en moderne React SPA bygget med Vite og React Router. Det lærte
-        vi om i dagens lektion
+        vi om i dagens lektion.
       </p>
     </section>
   );
